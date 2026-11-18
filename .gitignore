@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+data/
+runs/
+
+*.pt
+*.pth
+
+README.md
+
+.vscode/
+.idea/
